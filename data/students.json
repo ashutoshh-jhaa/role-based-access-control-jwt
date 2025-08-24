@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "enrollment_no": "24SE02CS101",
+    "branch": "CSE",
+    "semester": 3,
+    "email": "aarav.sharma@example.com",
+    "password": "aaravisshit",
+    "role": "student"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "enrollment_no": "24SE02CS102",
+    "branch": "ECE",
+    "semester": 5,
+    "email": "priya.patel@example.com",
+    "password": "priyaisshit",
+    "role": "student"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "enrollment_no": "24SE02CS103",
+    "branch": "IT",
+    "semester": 1,
+    "email": "rohan.gupta@example.com",
+    "password": "rohan",
+    "role": "student"
+  }
+]

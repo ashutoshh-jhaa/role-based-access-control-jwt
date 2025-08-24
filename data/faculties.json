@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Meera Iyer",
+    "password": "1234",
+    "faculty_id": "FAC001",
+    "department": "CSE",
+    "designation": "Professor",
+    "email": "meera.iyer@example.com",
+    "role": "faculty"
+  },
+  {
+    "id": 2,
+    "name": "Prof. Sanjay Rao",
+    "faculty_id": "FAC002",
+    "department": "ECE",
+    "designation": "Associate Professor",
+    "email": "sanjay.rao@example.com",
+    "role": "faculty",
+    "password": "1234"
+  },
+  {
+    "id": 3,
+    "name": "Ms. Neha Verma",
+    "faculty_id": "FAC003",
+    "department": "IT",
+    "designation": "Assistant Professor",
+    "email": "neha.verma@example.com",
+    "role": "faculty",
+    "password": "1234"
+  }
+]

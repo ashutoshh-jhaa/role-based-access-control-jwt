@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Anil Kumar",
+    "admin_id": "ADM001",
+    "role": "admin",
+    "email": "anil.kumar@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Sunita Desai",
+    "admin_id": "ADM002",
+    "role": "admin",
+    "email": "sunita.desai@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Vikram Nair",
+    "admin_id": "ADM003",
+    "role": "admin",
+    "email": "vikram.nair@example.com"
+  }
+]
